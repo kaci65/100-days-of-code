@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: May 22, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created a product landing page in CSS and HTML, worked on functionality for the page (not aesthetics lol).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with CSS. Getting stuff to look aesthetically pleasing is difficult for me, but I managed to figure out how some stuff work.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Product Landing Page](file:///home/hellen/basic-structure/prod-landing-page/index.html)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
