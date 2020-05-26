@@ -24,3 +24,20 @@
 **Thoughts** I am so proud in having completed my tribute page within a few hours with the functionality that I wanted in the page. It's a great feeling when I finished it seeing that I had struggled with the product landing page for two days.
 
 **Link(s) to work**: [Tribute Page](https://github.com/kaci65/projects-100-days-of-code/tree/master/tribute-page)
+
+
+### Day 4: May 25, 2020
+
+**Today's Progress**: I started on the personal portfolio page today, I'm struggling massively on the CSS part though.
+
+**Thoughts** I feel kinda down that I am still stuggling with CSS. I had to redo my project like three times, from scratch mind you.  
+**Link(s) to work**:
+
+
+### Day 5: May 26, 2020
+
+**Today's Progress**: I'm still struggling with the personal portfolio page, moreso with the CSS bit.
+
+**Thoughts** I hope that I'll start getting this CSS stuff sooner. I decided to make a bet with my brother today: if I have not mastered how to do basic website designing by next week Wednesday, I'll owe him $50. I need all the motivation I can get right now.
+
+**Link(s) to work**:
