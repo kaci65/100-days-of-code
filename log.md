@@ -94,5 +94,5 @@
 
 **Thoughts** The progress of the product landing page has gone well today, though the navbar had given me some problems earlier in the day.
 
-**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/home.html) (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/home.css)
+**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/home.html), (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/home.css)
 
