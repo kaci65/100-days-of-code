@@ -31,7 +31,7 @@
 **Today's Progress**: I started on the personal portfolio page today, I'm struggling massively on the CSS part though.
 
 **Thoughts** I feel kinda down that I am still stuggling with CSS. I had to redo my project like three times, from scratch mind you.  
-**Link(s) to work**:
+**Link(s) to work**: [Personal Portfolio Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/personal-portfolio)
 
 
 ### Day 5: May 26, 2020
@@ -40,7 +40,7 @@
 
 **Thoughts** I hope that I'll start getting this CSS stuff sooner. I decided to make a bet with my brother today: if I have not mastered how to do basic website designing by next week Wednesday, I'll owe him $50. I need all the motivation I can get right now.
 
-**Link(s) to work**:
+**Link(s) to work**: [Personal Portfolio Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/personal-portfolio/css/style1.css)
 
 
 ### Day 6: May 27, 2020
@@ -49,25 +49,25 @@
 
 **Thoughts** I created for pages that you can navigate to: home, about, services and contacts. I did different styling not only to the text but also to the divs (different sections of the page). It's more of a rough work but I'm proud of the work I accomplished today. I also learn how to host on netlify.
 
-**Link(s) to work**: [Test Website] (https://t.co/PEWTT9JXFY?amp=1)
+**Link(s) to work**: [Test Website] (https://t.co/PEWTT9JXFY?amp=1) (https://github.com/kaci65/projects-100-days-of-code/tree/master/test-website)
 
 
 ### Day 7: May 28, 2020
 
-**Today's Progress**: I completed a test website, to train myself more in html and css
+**Today's Progress**: I decided to gett the book, Get Coding by Young Rewired State.
 
-**Thoughts** I created for pages that you can navigate to: home, about, services and contacts. I did different styling not only to the text but also to the divs (different sections of the page). It's more of a rough work but I'm proud of the work I accomplished today. I also learn how to host on netlify.
+**Thoughts** I have managed to do a bit today in going through the book and creating dummy pages as per the exercises of the book. 
 
-**Link(s) to work**: [Test Website] (https://t.co/PEWTT9JXFY?amp=1)
+**Link(s) to work**: [Get Coding: Monk Diamond] (https://github.com/kaci65/projects-100-days-of-code/tree/master/get-coding/diamond-website)
 
 
 ### Day 8: May 29, 2020
 
-**Today's Progress**: I added more css to my page, though I did not het to where I was hoping to be at the end of the day.
+**Today's Progress**: I added more css to my page, though I did not get to where I was hoping to be at the end of the day.
 
 **Thoughts** I revisited the product landing page that was giving me a hard tie last week. I started afresh, I'm not done yet with it. 
 
-**Link(s) to work**: [Product Landing Page] ()
+**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/index.html) (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/style.css)
 
 
 ### Day 9: May 30, 2020
@@ -76,23 +76,23 @@
 
 **Thoughts** I created some animation with css and html but more of css than html. Taking a break from my projects was just what I needed to decompress.
 
-**Link(s) to work**: [Animation Page] ()
+**Link(s) to work**: [Animation] ()
 
 
 ### Day 10: May 31, 2020
 
-**Today's Progress**: I had laptop issues today, I couldn't manae to code.
+**Today's Progress**: I had laptop issues today, I couldn't manage to code.
 
 **Thoughts** I skipped a day today, I hope this doesn't happen again
 
-**Link(s) to work**: [Animation Page] ()
+**Link(s) to work**: [Free Day] ()
 
 
 ### Day 11: June 1, 2020
 
-**Today's Progress**: I have managed to get my product landing page to where I would like it to be at the moment.
+**Today's Progress**: I have managed to get my product landing page to where I would like it to be at the moment (I redid everything, with the new html and css having a name of home).
 
 **Thoughts** The progress of the product landing page has gone well today, though the navbar had given me some problems earlier in the day.
 
-**Link(s) to work**: [Animation Page] ()
+**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/home.html) (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/home.css)
 
