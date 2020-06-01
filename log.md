@@ -67,7 +67,7 @@
 
 **Thoughts** I revisited the product landing page that was giving me a hard tie last week. I started afresh, I'm not done yet with it. 
 
-**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/index.html) (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/style.css)
+**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/index.html), (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/style.css)
 
 
 ### Day 9: May 30, 2020
