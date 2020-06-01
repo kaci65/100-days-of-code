@@ -58,7 +58,7 @@
 
 **Thoughts** I have managed to do a bit today in going through the book and creating dummy pages as per the exercises of the book. 
 
-**Link(s) to work**: [Get Coding: Monk Diamond] (https://github.com/kaci65/projects-100-days-of-code/tree/master/get-coding/diamond-website)
+**Link(s) to work**: [Get Coding: Monk Diamond] 1. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/home.html), 2. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/CSSproperties.html), 3. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/CSSClasses.html), 4. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/classes.css), 5. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/properties.css), 6. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/style.css)
 
 
 ### Day 8: May 29, 2020
