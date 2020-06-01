@@ -76,7 +76,7 @@
 
 **Thoughts** I created some animation with css and html but more of css than html, a running man with a complete background image and moving motions of the running man. Taking a break from my projects was just what I needed to decompress and reset my mind.
 
-**Link(s) to work**: a) [Animation]: (https://github.com/kaci65/projects-100-days-of-code/tree/master/css-anime/man-walking) b) [Get Coding]: (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/monkdiamonddiscovery.html)  (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/discovery.css)
+**Link(s) to work**: A) [Animation]: (https://github.com/kaci65/projects-100-days-of-code/tree/master/css-anime/man-walking) B) [Get Coding]: (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/monkdiamonddiscovery.html), (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/discovery.css)
 
 
 ### Day 10: May 31, 2020
