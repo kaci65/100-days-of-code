@@ -41,3 +41,58 @@
 **Thoughts** I hope that I'll start getting this CSS stuff sooner. I decided to make a bet with my brother today: if I have not mastered how to do basic website designing by next week Wednesday, I'll owe him $50. I need all the motivation I can get right now.
 
 **Link(s) to work**:
+
+
+### Day 6: May 27, 2020
+
+**Today's Progress**: I completed a test website, to train myself more in html and css
+
+**Thoughts** I created for pages that you can navigate to: home, about, services and contacts. I did different styling not only to the text but also to the divs (different sections of the page). It's more of a rough work but I'm proud of the work I accomplished today. I also learn how to host on netlify.
+
+**Link(s) to work**: [Test Website] (https://t.co/PEWTT9JXFY?amp=1)
+
+
+### Day 7: May 28, 2020
+
+**Today's Progress**: I completed a test website, to train myself more in html and css
+
+**Thoughts** I created for pages that you can navigate to: home, about, services and contacts. I did different styling not only to the text but also to the divs (different sections of the page). It's more of a rough work but I'm proud of the work I accomplished today. I also learn how to host on netlify.
+
+**Link(s) to work**: [Test Website] (https://t.co/PEWTT9JXFY?amp=1)
+
+
+### Day 8: May 29, 2020
+
+**Today's Progress**: I added more css to my page, though I did not het to where I was hoping to be at the end of the day.
+
+**Thoughts** I revisited the product landing page that was giving me a hard tie last week. I started afresh, I'm not done yet with it. 
+
+**Link(s) to work**: [Product Landing Page] ()
+
+
+### Day 9: May 30, 2020
+
+**Today's Progress**: I decided to take time off today from my projects, and instead create fun stuff with html and css
+
+**Thoughts** I created some animation with css and html but more of css than html. Taking a break from my projects was just what I needed to decompress.
+
+**Link(s) to work**: [Animation Page] ()
+
+
+### Day 10: May 31, 2020
+
+**Today's Progress**: I had laptop issues today, I couldn't manae to code.
+
+**Thoughts** I skipped a day today, I hope this doesn't happen again
+
+**Link(s) to work**: [Animation Page] ()
+
+
+### Day 11: June 1, 2020
+
+**Today's Progress**: I have managed to get my product landing page to where I would like it to be at the moment.
+
+**Thoughts** The progress of the product landing page has gone well today, though the navbar had given me some problems earlier in the day.
+
+**Link(s) to work**: [Animation Page] ()
+
