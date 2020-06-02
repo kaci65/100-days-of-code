@@ -58,8 +58,7 @@
 
 **Thoughts** I have managed to do a bit today in going through the book and creating dummy pages as per the exercises of the book. 
 
-**Link(s) to work**: [Get Coding: Monk Diamond] 1. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/home.html), 2. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/CSSproperties.html), 3. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/CSSClasses.html), 4. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/classes.css), 5. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/properties.css), 6. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/style.css)
-
+**Link(s) to work**: [Get Coding: Monk Diamond] 1. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/home.html), 2. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/CSSproperties.html), 3. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/CSSClasses.html), 4. (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/classes.css)
 
 ### Day 8: May 29, 2020
 
@@ -67,7 +66,7 @@
 
 **Thoughts** I revisited the product landing page that was giving me a hard tie last week. I started afresh, I'm not done yet with it. 
 
-**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/index.html), (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/style.css)
+**Link(s) to work**: A) [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/index.html), (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/style.css) B) Get Coding: Monk Diamond (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/properties.css), (https://github.com/kaci65/projects-100-days-of-code/blob/master/get-coding/diamond-website/css/style.css)
 
 
 ### Day 9: May 30, 2020
@@ -95,4 +94,13 @@
 **Thoughts** The progress of the product landing page has gone well today, though the navbar had given me some problems earlier in the day.
 
 **Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/home.html), (https://github.com/kaci65/projects-100-days-of-code/blob/master/prod-landing-page/css/home.css)
+
+
+### Day 12: June 2, 2020
+
+**Today's Progress**: I have managed to create a technical documentation page.
+
+**Thoughts** The @media styling part of css is kinda confusing to me, but without it my page looks kinda funny. I'll try to figure it out though and try and understand it better.
+
+**Link(s) to work**: [Technical Documentation Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/technical-documentation-page)
 
