@@ -114,3 +114,22 @@
 **Link(s) to work**: [Flip Card Animation (css)] (https://github.com/kaci65/projects-100-days-of-code/tree/master/flip-card)
 
 
+### Day 14: June 4, 2020
+
+**Today's Progress**: I decided to recreate the conquer website: https://www.free-css.com/free-css-templates/page196/conquer.
+
+**Thoughts** Today was interesting majorly because the challenge is to use no bootstrap to remake the above website but still make it responsive. I've been all over the place, googling, stack overflow, w3 schools, treehouse... basically everywhere. It took me long time to get the navbar to even look as it does right now, but the height still doesn't look good. This is hard work, but rewarding at the same time.
+
+**Link(s) to work**: [Conquer Website Remake] (https://github.com/kaci65/projects-100-days-of-code/tree/master/conquer-website)
+
+
+### Day 15: June 5, 2020
+
+**Today's Progress**: I'm continuing where I left off yesterday, remake of the conquer website: https://www.free-css.com/free-css-templates/page196/conquer.
+
+**Thoughts** I code my code lines tangled and I'm upto my neck trying to untangle everything. This sure is a lesson learnt, to be neat and organised from the word go. It will sure save me grief in the future! Now back to untangling lol
+
+**Link(s) to work**: [Conquer Website Remake] (https://github.com/kaci65/projects-100-days-of-code/tree/master/conquer-website)
+
+
+
