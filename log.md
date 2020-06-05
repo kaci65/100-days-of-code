@@ -104,3 +104,13 @@
 
 **Link(s) to work**: [Technical Documentation Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/technical-documentation-page)
 
+
+### Day 13: June 3, 2020
+
+**Today's Progress**: I created a flip card today.
+
+**Thoughts** Using CSS to make the motions of flipping a card happen was interesting. I chose this project because I want to get good at css.
+
+**Link(s) to work**: [Flip Card Animation (css)] (https://github.com/kaci65/projects-100-days-of-code/tree/master/flip-card)
+
+
