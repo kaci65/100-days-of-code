@@ -132,4 +132,14 @@
 **Link(s) to work**: [Conquer Website Remake] (https://github.com/kaci65/projects-100-days-of-code/tree/master/conquer-website)
 
 
+### Day 16: June 6, 2020
+
+**Today's Progress**: I am done with the remake of the conquer website: https://www.free-css.com/free-css-templates/page196/conquer.
+
+**Thoughts** I feel like moonwalking... maybe I will after typinh this! The website has come out looking good, no bootstrap or JS has been used,just HTML and CSS. I'm proud of the work I have accomplished today, yay!!! The responsiveness is not 100% percent there though lol. Oh, and btw, I managed to organise my code, it looks more neat now.
+
+**Link(s) to work**: [Conquer Website Remake] (https://github.com/kaci65/projects-100-days-of-code/tree/master/conquer-website)
+
+
+
 
