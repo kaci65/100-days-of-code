@@ -142,4 +142,13 @@
 
 
 
+### Day 17: June 7, 2020
+
+**Today's Progress**: I have completed Mission 2: Create a Password from the book Get Coding by Young Rewired State (https://www.amazon.com/Get-Coding-Learn-JavaScript-Website/dp/076369276X/ref=sr_1_1?dchild=1&keywords=get+coding&qid=1591559697&s=books&sr=1-1)
+
+**Thoughts** I had started doing some javascript about 2 months ago, but a month into it, I wasn't getting a lot of the stuff. But the notes I have gone through today plus the exercises (from the book) are simplified and easier for me to understand. Today, I have learnt about creating a password page, which is linked it to another page. Having the password verified using javascript will determine whether you can access the linked page or not.
+
+**Link(s) to work**: [Get Coding: Monk Diamond] (https://github.com/kaci65/projects-100-days-of-code/tree/master/get-coding/create-a-password)
+
+
 
