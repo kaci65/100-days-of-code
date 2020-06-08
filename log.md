@@ -141,7 +141,6 @@
 **Link(s) to work**: [Conquer Website Remake] (https://github.com/kaci65/projects-100-days-of-code/tree/master/conquer-website)
 
 
-
 ### Day 17: June 7, 2020
 
 **Today's Progress**: I have completed Mission 2: Create a Password from the book Get Coding by Young Rewired State (https://www.amazon.com/Get-Coding-Learn-JavaScript-Website/dp/076369276X/ref=sr_1_1?dchild=1&keywords=get+coding&qid=1591559697&s=books&sr=1-1)
@@ -150,5 +149,13 @@
 
 **Link(s) to work**: [Get Coding: Monk Diamond] (https://github.com/kaci65/projects-100-days-of-code/tree/master/get-coding/create-a-password)
 
+
+### Day 18: June 8, 2020
+
+**Today's Progress**: I decided to revisit Flexbox and CSS Grid today
+
+**Thoughts** I noticed that I did not have a good understanding of these two, I eben rarely used them in my code, which meant that I wrote more lines than I needed to and my work ends up looking complicated. I sometimes have no idea what line does what when I look at it. Using Flexbox and CSS Grid will sure be of much help to me and my lines!
+
+**Link(s) to work**: [FreeCodeCamp] (https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/), (https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
 
 
