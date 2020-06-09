@@ -159,3 +159,11 @@
 **Link(s) to work**: [FreeCodeCamp] (https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/), (https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
 
 
+### Day 19: June 9, 2020
+
+**Today's Progress**: I have managed to only write 5 lines of code on my porfolio page project
+
+**Thoughts** I've been researching the "perfect layout and BG image" for my portfolio page, since 2pm. Nine and a half hours later, I have 20 tabs open and only 5 lines of code 😂😂😂. I tend to overthink stuff but today was on another level. I
+
+**Link(s) to work**: 
+
