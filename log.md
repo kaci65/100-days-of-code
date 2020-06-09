@@ -165,5 +165,5 @@
 
 **Thoughts** I've been researching the "perfect layout and BG image" for my portfolio page, since 2pm. Nine and a half hours later, I have 20 tabs open and only 5 lines of code 😂😂😂. I tend to overthink stuff but today was on another level. I
 
-**Link(s) to work**: 
+**Link(s) to work**: [Portfolio] (https://github.com/kaci65/projects-100-days-of-code/tree/master/portfolio)
 
