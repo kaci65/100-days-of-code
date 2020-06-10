@@ -19,9 +19,9 @@
 
 ### Day 3: May 24, 2020
 
-**Today's Progress**: I have successfully completed the tribute page.
+**Today's Progress**: I have completed the tribute page.
 
-**Thoughts** I am so proud in having completed my tribute page within a few hours with the functionality that I wanted in the page. It's a great feeling when I finished it seeing that I had struggled with the product landing page for two days.
+**Thoughts** I have completed the tribute page but I have failed to pass all the checks required by FCC.
 
 **Link(s) to work**: [Tribute Page](https://github.com/kaci65/projects-100-days-of-code/tree/master/tribute-page)
 
@@ -166,4 +166,13 @@
 **Thoughts** I've been researching the "perfect layout and BG image" for my portfolio page, since 2pm. Nine and a half hours later, I have 20 tabs open and only 5 lines of code 😂😂😂. I tend to overthink stuff but today was on another level. I
 
 **Link(s) to work**: [Portfolio] (https://github.com/kaci65/projects-100-days-of-code/tree/master/portfolio)
+
+
+### Day 20: June 10, 2020
+
+**Today's Progress**: I redid the tribute page
+
+**Thoughts** Although I had earlier done the tribute page (on day 3 of the challenge), it was not up to par with the FCC checklist. I decided to redo it because I want to feature some of my projects on the portfolio page that I am yet to build. I based the tribute on JRR Tolkien, I love his books!
+
+**Link(s) to work**: [Tolkien Tribute Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/tolkien-tribute-fcc)
 
