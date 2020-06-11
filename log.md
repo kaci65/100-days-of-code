@@ -176,3 +176,12 @@
 
 **Link(s) to work**: [Tolkien Tribute Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/tolkien-tribute-fcc)
 
+
+### Day 21: June 11, 2020
+
+**Today's Progress**: Survey Form (just the HTML)
+
+**Thoughts**I chose to redo the survey form I did one and a half years ago, for the FCC curriculum. The progress has been slow but I have managed to finish the html side of things.
+
+**Link(s) to work**: [Survey Form] (https://github.com/kaci65/projects-100-days-of-code/tree/master/survey-form-fcc)
+
