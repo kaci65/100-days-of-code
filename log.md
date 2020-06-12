@@ -185,3 +185,12 @@
 
 **Link(s) to work**: [Survey Form] (https://github.com/kaci65/projects-100-days-of-code/tree/master/survey-form-fcc)
 
+
+### Day 22: June 12, 2020
+
+**Today's Progress**: Survey Form (just the HTML & CSS)
+
+**Thoughts** The CSS bit was kinda challenging but I have managed to finish this project. I'm slowly but steadily improving on the CSS bit. For a minute, I got tempted to follow a youtube tutorial, but I'm glad I didn't. I've learnt a lot today, on the coding part but also about myself. That if I just hang in there, I can do it!
+
+**Link(s) to work**: [Survey Form] (https://github.com/kaci65/projects-100-days-of-code/tree/master/survey-form-fcc)
+
