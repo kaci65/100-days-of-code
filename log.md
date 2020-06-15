@@ -204,11 +204,11 @@
 **Link(s) to work**: [CSS Exercises] (https://www.w3schools.com/css/exercise.asp)
 
 
-### Day 24: June 14, 2020
+### Day 25: June 15, 2020
 
-**Today's Progress**: I wasn't able to do any coding today.
+**Today's Progress**: Redoing the product landing page.
 
-**Thoughts** There was a blackout out (no electricity) for the whole day and part of the evening in the are where I live, so I didn't do any coding today.
+**Thoughts** The previous product landing page that I created on day one, does not pass FCC muster, so I've had to redo it. Today I have laid down the pages barebones, that is HTML. I'll start on the CSS bit tomorrow.
 
-**Link(s) to work**: [] ()
+**Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/product-landing-page/index.html)
 
