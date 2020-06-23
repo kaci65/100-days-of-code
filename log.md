@@ -212,3 +212,75 @@
 
 **Link(s) to work**: [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/product-landing-page/index.html)
 
+
+### Day 26: June 16, 2020
+
+**Today's Progress**: Did not code, family emergency.
+
+**Thoughts** Did not code, family emergency.
+
+**Link(s) to work**:
+
+
+### Day 27: June 17, 2020
+
+**Today's Progress**: Did not code, family emergency.
+
+**Thoughts** Did not code, family emergency.
+
+**Link(s) to work**:
+
+
+### Day 28: June 18, 2020
+
+**Today's Progress**: Did not code, family emergency.
+
+**Thoughts** Did not code, family emergency.
+
+**Link(s) to work**:
+
+
+### Day 29: June 19, 2020
+
+**Today's Progress**: Did not code, family emergency.
+
+**Thoughts** Did not code, family emergency.
+
+**Link(s) to work**:
+
+
+### Day 30: June 20, 2020
+
+**Today's Progress**: Did not code, family emergency.
+
+**Thoughts** Did not code, family emergency.
+
+**Link(s) to work**:
+
+
+### Day 31: June 21, 2020
+
+**Today's Progress**: Did not code, family emergency.
+
+**Thoughts** Did not code, family emergency.
+
+**Link(s) to work**:
+
+
+
+### Day 32: June 22, 2020
+
+**Today's Progress**: Started building the personal portfolio page.
+
+**Thoughts** I kinda struggled with the css bit, to get it to look the way I wanted. I'll call it quits for today and tackle this tomorrow, with a fresh mind. I hosted it on netlify.
+
+**Link(s) to work**: [Personal Portfolio Page] (https://t.co/jyCI8TqXLL?amp=1)
+
+### Day 33: June 23, 2020
+
+**Today's Progress**: Finished building the personal portfolio page.
+
+**Thoughts** Tackling this with a fresh mind sure helped a lot! Though I am still kinda struggling with the media queries, css flexbox and grid. I decided not to use a background image in this project and I like how it looks. I have also re-edited the navbar from the product-landing-page folder, both in html and css, but the header area is still too big for me.
+
+**Link(s) to work**: [Personal Portfolio Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/personal-portfolio-page) [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/product-landing-page)
+
