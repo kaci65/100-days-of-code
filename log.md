@@ -284,3 +284,31 @@
 
 **Link(s) to work**: [Personal Portfolio Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/personal-portfolio-page) [Product Landing Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/product-landing-page)
 
+
+### Day 34: June 24, 2020
+
+**Today's Progress**: Had a hard time with CSS (replicating the four card feature from), didn't finish project.
+
+**Thoughts** Today has been kinda frustrating, one step forward two steps back! I'm trying to recreate this https://frontendmentor.io/challenges/four-card-feature-section-weK1eFYK instead I've managed to do this https://github.com/kaci65/projects-100-days-of-code/tree/master/four-card-feature instead.
+
+**Link(s) to work**: [Four Card Feature] (https://github.com/kaci65/projects-100-days-of-code/tree/master/four-card-feature)
+
+
+### Day 35: June 25, 2020
+
+**Today's Progress**: Working on recreating the google page.
+
+**Thoughts** I'm stuck on the font awesome icons. They refuse to work, but I managed to finish the HTML part.
+
+**Link(s) to work**: [Google Page] (https://github.com/kaci65/projects-100-days-of-code/blob/master/google-page/index.html)
+
+
+### Day 36: June 26, 2020
+
+**Today's Progress**: Finished the google page
+
+**Thoughts** The page closely resembles the google one but not all the way. Getting the search button to fit nicely in the search box was a nightmare. It took me over an hour to get it to work (50%). I tried following some tutorials to create this part but for some reason they made my code look worse. I'm getting a little frustrated with CSS, I should get it by now.
+
+**Link(s) to work**: [Google Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/google-page)
+
+
