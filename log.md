@@ -312,3 +312,30 @@
 **Link(s) to work**: [Google Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/google-page)
 
 
+### Day 37: June 27, 2020
+
+**Today's Progress**: Traveling
+
+**Thoughts** Traveling
+
+**Link(s) to work**: 
+
+
+### Day 38: June 28, 2020
+
+**Today's Progress**: Parallax page
+
+**Thoughts** I couldn't get the parallax effect to work!  I think I messed up my h1 headings code too, because I have to add display:absolute to get them to stay at their respective positions. I'll just leave the code as it is today because earlier on I messed my code up and I had to undo a lot of stuff. I'll look at it with fresh eyes tomorrow.
+
+**Link(s) to work**: [Parallax Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/parallax-website)
+
+
+### Day 39: June 29, 2020
+
+**Today's Progress**: Parallax page
+
+**Thoughts** I tried to troubleshoot my code from yesterday but it seemed like I made everything worse with every code revision I made. I took a break from it then decided to start a fresh. This time round, I added the images through css instead of html and it made my work a little easier. The parallax effect works! *happy jig!!!*
+
+**Link(s) to work**: [Parallax Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/parallax-effect)
+
+
