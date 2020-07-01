@@ -339,3 +339,21 @@
 **Link(s) to work**: [Parallax Page] (https://github.com/kaci65/projects-100-days-of-code/tree/master/parallax-effect)
 
 
+### Day 40: June 30, 2020
+
+**Today's Progress**: Restaurant website
+
+**Thoughts** One step forward, three steps back. I don't know how long I'm going to 'hang in there' but after yesterday's victory with the parallax web page, I thought that today would be remotely easier but it wasn't. The navbar wasn't working, the hero page was not that good. *sighs* I feel like screaming or breaking something lol
+
+**Link(s) to work**: [Restaurant website] (https://github.com/kaci65/projects-100-days-of-code/tree/master/restaurant-website)
+
+
+### Day 41: July 1, 2020
+
+**Today's Progress**: Cafe website
+
+**Thoughts** I decided to redo the restaurant website. I started afresh but borrowed some code from yesterday's work (the lines that were working). I had a moment where my mind went blank, as if I've never come across html and css. I decided to take a break and do some chores around the house, then went back to tackle the cafe website later on. The progress has been slow, but i am proud of the work so far.
+
+**Link(s) to work**: [Cafe website] (https://github.com/kaci65/projects-100-days-of-code/tree/master/cafe-website)
+
+
