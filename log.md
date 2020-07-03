@@ -357,3 +357,26 @@
 **Link(s) to work**: [Cafe website] (https://github.com/kaci65/projects-100-days-of-code/tree/master/cafe-website)
 
 
+### Day 42: July 2, 2020
+
+**Today's Progress**: Cafe website
+
+**Thoughts** I applied flexbox to the events and location part: they were side by side. I don't like how it looks though, I might change it tomorrow. The review part looks off, the center alignment doesn't work properly. Applying flexbox didn't work so instead I applied css grid and it kinda worked. The center alignment was like at 98% so I had to use margin-left to get it to a 100%. I'll  also add review stars to the review tomorrow.
+
+
+**Link(s) to work**: [Cafe website] (https://compassionate-davinci-1fe0f4.netlify.app/)
+
+
+### Day 43: July 3, 2020
+
+**Today's Progress**: Cafe website
+
+**Thoughts** I changed the event and location part from floating side by side to them flowing after each other. I had used flexbox yesterday but it wasn't working so I redid those two parts. Even though the review part was center aligned, I changed it to four columns instead of three. I think it looks and fits much better than it did yesterday. 
+
+I added the review stars, I love them! The footer too. wierd thing happened with the <hr> tag: the border radius was working perfectly but after I added a gradient to the tag, it stopped working. I still don't know what the issue could be.
+
+I added media queries but some worked while others didn't. I'm not going to spend too much time on the webpage, so I'll leave it as it is. The thing that are still a challenge to me (MEDIA QUERIES!!!), I'll learn them as I go. Overall, I'm happy with how the project turned out.
+
+**Link(s) to work**: [Cafe website] Netlify: (https://hardcore-bhabha-d7f639.netlify.app/) GitHub: (https://github.com/kaci65/projects-100-days-of-code/tree/master/cafe-website)
+
+
