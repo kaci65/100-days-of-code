@@ -380,3 +380,12 @@ I added media queries but some worked while others didn't. I'm not going to spen
 **Link(s) to work**: [Cafe website] Netlify: (https://hardcore-bhabha-d7f639.netlify.app/) GitHub: (https://github.com/kaci65/projects-100-days-of-code/tree/master/cafe-website)
 
 
+### Day 44: July 4, 2020
+
+**Today's Progress**: Javascript Exercises
+
+**Thoughts** I had a very busy day today, and I couldn't find time to sit and write some code until like an hour ago. So I decided to do some js exercises before I went to sleep. I did the exercises from w3 schools.
+
+**Link(s) to work**: [Javascript Exercises] w3schools.com: (https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
+
+
