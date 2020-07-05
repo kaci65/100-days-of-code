@@ -389,3 +389,13 @@ I added media queries but some worked while others didn't. I'm not going to spen
 **Link(s) to work**: [Javascript Exercises] w3schools.com: (https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 
 
+
+### Day 45: July 5, 2020
+
+**Today's Progress**: Random Quote Generator (I focused majorly on js and not the css part)
+
+**Thoughts** I have officially started creating javascript projects today, and I really enjoyed creating a random quote generator. The quote search led me to some hilarious quotes which made my evening, I couldn't help but burst into laughter. I majorly focused on the js and a few lines of html and css.
+
+**Link(s) to work**: [Random Quote Generator] (https://github.com/kaci65/projects-100-days-of-code/tree/master/js/quote-generator)
+
+
