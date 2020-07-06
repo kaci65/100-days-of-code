@@ -399,3 +399,15 @@ I added media queries but some worked while others didn't. I'm not going to spen
 **Link(s) to work**: [Random Quote Generator] (https://github.com/kaci65/projects-100-days-of-code/tree/master/js/quote-generator)
 
 
+### Day 46: July 6, 2020
+
+**Today's Progress**: Color Flipper (I followed a tutorial on this: https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
+
+**Thoughts** Since I started the #100DaysOfCode challenge, I have stayed away from tutorials but so far javascript code seems to swim in front of my eyes!
+ So for the rest of this week, I'm going to follow tutorials for javascript projects and then go cold turkey from next week.
+ 
+ I created the color flipper. I messed up my code a couple of times but I resisted the urge to look at the final code, and instead had to comb through my code to look for errors. One of them was failing to add the parenthesis to invoke the function. Before I noticed that this was the cause of my code not working, 15 minutes had already passed lol!!!
+
+**Link(s) to work**: [Color Flipper] Netlify:(https://stoic-ride-34cade.netlify.app/)
+
+
