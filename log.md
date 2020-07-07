@@ -419,6 +419,6 @@ I added media queries but some worked while others didn't. I'm not going to spen
 
 I created the counter and reviews projects. The only stimulating thing that occured in both this projects is that I had syntax errors which made my code not work, so I had to inspect my work on the browser console and try to figure out which lines were causing me problems. I hostes my projects on Netlify.
 
-**Link(s) to work**: [Counter] :(https://app.netlify.com/sites/sharp-euler-7f8437), [Reviews] :(https://thirsty-hawking-6f6ecb.netlify.app/)
+**Link(s) to work**: [Counter] :(https://sharp-euler-7f8437.netlify.app/), [Reviews] :(https://thirsty-hawking-6f6ecb.netlify.app/)
 
 
