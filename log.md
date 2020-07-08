@@ -422,3 +422,11 @@ I created the counter and reviews projects. The only stimulating thing that occu
 **Link(s) to work**: [Counter] :(https://sharp-euler-7f8437.netlify.app/), [Reviews] :(https://thirsty-hawking-6f6ecb.netlify.app/)
 
 
+### Day 48: July 8, 2020
+
+**Today's Progress**: Played Javascript games Code combat and Galacticode.
+
+**Thoughts** I played javascript games today! Code combat & Galacticode, I'm still trying to figure out the best way to practise javascript lol. I learnt some stuff while playing the javascript coding games: arrays, functions, reusing code. Though this is fun, this would be something to do on the side not as the main way to practise javascript.
+
+**Link(s) to work**: 
+
