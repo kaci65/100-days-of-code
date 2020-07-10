@@ -430,3 +430,21 @@ I created the counter and reviews projects. The only stimulating thing that occu
 
 **Link(s) to work**: 
 
+
+### Day 49: July 9, 2020
+
+**Today's Progress**: Book reading.
+
+**Thoughts**  I started reading Eloquent Javascript by Marijn Haverbeke today. I'm at a loss to where to start on javascript. Thought maybe reading a book might help. I haven't fiished it though, probably in a week.
+
+**Link(s) to work**: 
+
+
+### Day 50: July 10, 2020
+
+**Today's Progress**: Javascript Algorithms and Data Structures Projects
+
+**Thoughts** Today I worked on the palindrome checker. This was kinda confusing though I had an easy time when going through the regular expressions part (FreeCodeCamp). I'm seriously struggling to apply theory into practise.
+
+**Link(s) to work**: [FreeCodeCamp] :(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
+
