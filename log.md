@@ -448,3 +448,20 @@ I created the counter and reviews projects. The only stimulating thing that occu
 
 **Link(s) to work**: [FreeCodeCamp] :(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
 
+
+### Day 51: July 11, 2020
+
+**Today's Progress**: Did not code today: Sick
+
+**Thoughts** 
+
+**Link(s) to work**:
+
+
+### Day 52: July 12, 2020
+
+**Today's Progress**: Javascript Algorithms and Data Structures Projects
+
+**Thoughts** Today I worked on the roman numeral converter & caesar's cipher. I'm starting to understand a little js, practising it in small chunks is helping.
+
+**Link(s) to work**: [FreeCodeCamp] :(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter), (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
