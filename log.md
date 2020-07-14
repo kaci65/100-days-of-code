@@ -469,8 +469,17 @@ I created the counter and reviews projects. The only stimulating thing that occu
 
 ### Day 53: July 13, 2020
 
-**Today's Progress**: Javascript: Navbar & Sidebar
+**Today's Progress**: Javascript Tutorial: Navbar & Sidebar
 
 **Thoughts** I know I said that I'm not going to do tutorials because it's really not my learning style, I decided to give them another try. These are the tutorials I'm using (from freeCodeCamp) - https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/. I then tried to redo the navbars from my previous projects (add javascript code to them) but they are not working as they should. I'll try looking at them later with fresh eyes.
 
 **Link(s) to work**: [Navbar] :(https://sleepy-jang-5e723a.netlify.app/), [Sidebar] (https://pedantic-shaw-00f50b.netlify.app/)
+
+
+### Day 54: July 14, 2020
+
+**Today's Progress**: Javascript Tutorial: Modal & Questions (https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
+
+**Thoughts** I did the modal and questions projects from the above tutorial. I actually paused the video and attempted the modal project, and my code worked! I was so happy I had to do a happy dance all over the house lol!!! I'm starting to understand how javascript works.
+
+**Link(s) to work**: [Modal] :(https://brave-kilby-8d0bae.netlify.app), [Questions] :(https://optimistic-hermann-61f1a3.netlify.app)
