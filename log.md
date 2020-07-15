@@ -487,7 +487,7 @@ I created the counter and reviews projects. The only stimulating thing that occu
 
 ### Day 55: July 15, 2020
 
-**Today's Progress**: Eloquent Javascript Ecxercise - Looping a Triangle.
+**Today's Progress**: Eloquent Javascript Exercise - Looping a Triangle.
 
 **Thoughts** It took me an hour to get this right... but I still don't know where I was going wrong. I used the for loop (as hinted in the instructions) but debugging my code for an hour did not lead me to the problem in my code. I finally had to delete everything and start afresh.
 
