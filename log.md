@@ -483,3 +483,12 @@ I created the counter and reviews projects. The only stimulating thing that occu
 **Thoughts** I did the modal and questions projects from the above tutorial. I actually paused the video and attempted the modal project, and my code worked! I was so happy I had to do a happy dance all over the house lol!!! I'm starting to understand how javascript works.
 
 **Link(s) to work**: [Modal] :(https://brave-kilby-8d0bae.netlify.app), [Questions] :(https://optimistic-hermann-61f1a3.netlify.app)
+
+
+### Day 55: July 15, 2020
+
+**Today's Progress**: Eloquent Javascript Ecxercise - Looping a Triangle.
+
+**Thoughts** It took me an hour to get this right... but I still don't know where I was going wrong. I used the for loop (as hinted in the instructions) but debugging my code for an hour did not lead me to the problem in my code. I finally had to delete everything and start afresh.
+
+**Link(s) to work**: [Looping a triangle] :(https://jsfiddle.net/kaci65/1ardy6ew/6/)
