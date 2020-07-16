@@ -492,3 +492,12 @@ I created the counter and reviews projects. The only stimulating thing that occu
 **Thoughts** It took me an hour to get this right... but I still don't know where I was going wrong. I used the for loop (as hinted in the instructions) but debugging my code for an hour did not lead me to the problem in my code. I finally had to delete everything and start afresh.
 
 **Link(s) to work**: [Looping a triangle] :(https://jsfiddle.net/kaci65/1ardy6ew/6/)
+
+
+### Day 56: July 16, 2020
+
+**Today's Progress**: Eloquent Javascript Exercise - FizzBuzz.
+
+**Thoughts** Attempting to solve this but my code isn't working. I'll keep at it (using if else). I think I can do this without referring to the solution.
+
+**Link(s) to work**: [FizzBuzz] :(https://jsfiddle.net/kaci65/gn4Lq15x/10/)
