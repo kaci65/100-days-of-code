@@ -501,3 +501,15 @@ I created the counter and reviews projects. The only stimulating thing that occu
 **Thoughts** Attempting to solve this but my code isn't working. I'll keep at it (using if else). I think I can do this without referring to the solution.
 
 **Link(s) to work**: [FizzBuzz] :(https://jsfiddle.net/kaci65/gn4Lq15x/10/)
+
+
+### Day 57: July 17, 2020
+
+**Today's Progress**: Eloquent Javascript Exercise - Chessboard && FizzBuzz (redo)
+
+**Thoughts** The chessboard code displays on JS Fiddle as having opening and closing quotation marks afrer running the code. Had to get an extra set of eyes because I had gone over the code and couldn't see what the issue was. But still, no issue was found in my code. So I decided to use the Mozilla console and my code ran without the opening and closing quotation marks. So the code works.
+
+I also went over the fizzbuzz code from yesterday, and the issue was that the words in the console.log were not put in strings. It was such a simple mistake which made the code not work and the debugging a real head scratcher! I guess I've learnt something from this.
+
+**Link(s) to work**: [ChessBoard] :(https://jsfiddle.net/kaci65/n74toykq/35/) && [FizzBuzz] :(https://jsfiddle.net/kaci65/gn4Lq15x/37/)
+
