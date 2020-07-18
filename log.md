@@ -507,9 +507,18 @@ I created the counter and reviews projects. The only stimulating thing that occu
 
 **Today's Progress**: Eloquent Javascript Exercise - Chessboard && FizzBuzz (redo)
 
-**Thoughts** The chessboard code displays on JS Fiddle as having opening and closing quotation marks afrer running the code. Had to get an extra set of eyes because I had gone over the code and couldn't see what the issue was. But still, no issue was found in my code. So I decided to use the Mozilla console and my code ran without the opening and closing quotation marks. So the code works.
+**Thoughts** The chessboard code displays on JS Fiddle as having opening and closing quotation marks after running the code. Had to get an extra set of eyes because I had gone over the code and couldn't see what the issue was. But still, no issue was found in my code. So I decided to use the Mozilla console and my code ran without the opening and closing quotation marks. So the code works.
 
 I also went over the fizzbuzz code from yesterday, and the issue was that the words in the console.log were not put in strings. It was such a simple mistake which made the code not work and the debugging a real head scratcher! I guess I've learnt something from this.
 
 **Link(s) to work**: [ChessBoard] :(https://jsfiddle.net/kaci65/n74toykq/35/) && [FizzBuzz] :(https://jsfiddle.net/kaci65/gn4Lq15x/37/)
+
+
+### Day 58: July 18, 2020
+
+**Today's Progress**: Eloquent Javascript Exercise - Minimum.
+
+**Thoughts** I had previously used the Math.min function, and though it worked, it didn't feel right. I consulted and was reminded that the Math.min function is an internal javascript function and that I was not actually invoking my function (called min). So I revised my code, taking into account the advise given and it worked and felt also right.
+
+**Link(s) to work**: [Minimum] :(https://t.co/TITh3dHzqW?amp=1)
 
