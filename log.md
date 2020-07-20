@@ -522,3 +522,22 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Link(s) to work**: [Minimum] :(https://t.co/TITh3dHzqW?amp=1)
 
+
+
+### Day 59: July 19, 2020
+
+**Today's Progress**: Did not code
+
+**Thoughts** Every day I don't code feels like I'm taking time out of the #100DaysOfCode challenge. However, if the circumstances are unavoidable, that's something I have to accept and try not to beat myself up too much.
+
+**Link(s) to work**: 
+
+
+### Day 60: July 20, 2020
+
+**Today's Progress**: Eloquent Javascript Exercise - Recursion.
+
+**Thoughts** When checking if -1 was even, it returned false instead of negative num. I then remembered how organizing one's code could mean it working or not.After reorganising and placing the code that checks if a number is negative above the code that checks if a number is odd, my function worked.
+
+**Link(s) to work**: [Recursion] :(https://t.co/PYZYCehriY?amp=1)
+
