@@ -550,3 +550,13 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Link(s) to work**: [Bean Counting] :(https://jsfiddle.net/kaci65/u08nj7dq/18/)
 
+
+
+### Day 62: July 22, 2020
+
+**Today's Progress**: Eloquent Javascript Exercise - Bean Counting.
+
+**Thoughts** The issues in my code were : a) calling the parameter and function instead of the function; b) declaring a string inside the function instead of inside the console.log. After I fixed these issues, my code worked like a charm lol!
+
+**Link(s) to work**: [Bean Counting] :(https://jsfiddle.net/kaci65/u08nj7dq/26/)
+
