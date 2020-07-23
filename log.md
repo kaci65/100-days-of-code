@@ -560,3 +560,10 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Link(s) to work**: [Bean Counting] :(https://jsfiddle.net/kaci65/u08nj7dq/26/)
 
+
+### Day 63: July 23, 2020
+
+**Today's Progress**: Javascript Tutorial: Menu Page (https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
+
+**Thoughts** I have spent over an hour and a half just debugging my code. First it a backtick issue, instead of using them, I was using single quotation marks. The next issue was, I had ommitted a period in front of a class name ("filter-btn"), the third issue was addind an 's' to signify plural where it wasn't needed. There's a fourthone which has conviniently escaped my mind. Such small stuff have really caused me a headache but I'm glad I didn't quit or copy and paste the final source code. 
+**Link(s) to work**: [Menu] :(https://zealous-brattain-3efafb.netlify.app/)
