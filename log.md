@@ -204,6 +204,15 @@
 **Link(s) to work**: [CSS Exercises] (https://www.w3schools.com/css/exercise.asp)
 
 
+### Day 24: June 14, 2020
+
+**Today's Progress**: I wasn't able to do any coding today.
+
+**Thoughts** There was a blackout out (no electricity) for the whole day and part of the evening in the are where I live, so I didn't do any coding today.
+
+**Link(s) to work**: [] ()
+
+
 ### Day 25: June 15, 2020
 
 **Today's Progress**: Redoing the product landing page.
