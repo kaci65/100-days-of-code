@@ -588,3 +588,12 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Link(s) to work**: [Video] :(https://inspiring-elion-6e535e.netlify.app/), [Tabs] :(https://determined-pare-1ac0da.netlify.app/)
 
+
+### Day 65: July 25, 2020
+
+**Today's Progress**: Javascript Tutorial: Lorem Ipsum
+(https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
+
+**Thoughts**The major key take away from today's project was that for debugging purposes, the value of an input is a string and not a number. If the color of the output is black, this denotes a string and blue, a number. You can use console.log(typeof value) to prove that the value of an input is a string and not a number.
+
+**Link(s) to work**: [Lorem Ipsum] :(https://heuristic-haibt-605219.netlify.app/)
