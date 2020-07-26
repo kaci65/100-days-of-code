@@ -594,6 +594,15 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 **Today's Progress**: Javascript Tutorial: Lorem Ipsum
 (https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
 
-**Thoughts**The major key take away from today's project was that for debugging purposes, the value of an input is a string and not a number. If the color of the output is black, this denotes a string and blue, a number. You can use console.log(typeof value) to prove that the value of an input is a string and not a number.
+**Thoughts** The major key take away from today's project was that for debugging purposes, the value of an input is a string and not a number. If the color of the output is black, this denotes a string and blue, a number. You can use console.log(typeof value) to prove that the value of an input is a string and not a number.
 
 **Link(s) to work**: [Lorem Ipsum] :(https://heuristic-haibt-605219.netlify.app/)
+
+
+### Day 66: July 26, 2020
+
+**Today's Progress**: Eloquent Javascript Exercise - The Sum of a Range.
+
+**Thoughts** I decided to try out the for loop, while loop and recursion methods for the sum function. I was JS Fiddle but I forgot to add a console.log to the for loop function, when I added it, the fiddle changed to another one. This is quite annoying. I wonder if there's a way to avoid this. I'll look into it tomorrow.
+
+**Link(s) to work**: [The Sum of a Range] :(https://jsfiddle.net/kaci65/o6ug8vzs/32/)
