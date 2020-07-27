@@ -606,3 +606,12 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 **Thoughts** I decided to try out the for loop, while loop and recursion methods for the sum function. I was JS Fiddle but I forgot to add a console.log to the for loop function, when I added it, the fiddle changed to another one. This is quite annoying. I wonder if there's a way to avoid this. I'll look into it tomorrow.
 
 **Link(s) to work**: [The Sum of a Range] :(https://jsfiddle.net/kaci65/o6ug8vzs/32/)
+
+
+### Day 67: July 27, 2020
+
+**Today's Progress**: Eloquent Javascript Exercise - Reverse an Array.
+
+**Thoughts** The returned array was (["My", "is", "name", "Kaci65"]) instead of (["My", "name", "is", "Kaci65"]). I googled and learnt that the problem was that my array was an even number instead of an odd number. That subtracting 1 from my array.length before dividing by 2 would help.
+
+**Link(s) to work**: [Return an Array] :(https://jsfiddle.net/kaci65/m67adv0c/19/)
