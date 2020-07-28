@@ -615,3 +615,13 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 **Thoughts** The returned array was (["My", "is", "name", "Kaci65"]) instead of (["My", "name", "is", "Kaci65"]). I googled and learnt that the problem was that my array was an even number instead of an odd number. That subtracting 1 from my array.length before dividing by 2 would help.
 
 **Link(s) to work**: [Return an Array] :(https://jsfiddle.net/kaci65/m67adv0c/19/)
+
+
+### Day 68: July 28, 2020
+
+**Today's Progress**: Javascript Tutorial: Slider
+(https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
+
+**Thoughts** I created a slider/carousel today. I've always wondered how they do it on th fancy pages or tutorials, but I mostly only thought "CSS". Now I think the functinality is easier with JavaScript.
+
+**Link(s) to work**: [Slider] :(https://objective-bardeen-6b4ecf.netlify.app/)
