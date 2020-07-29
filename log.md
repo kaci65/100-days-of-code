@@ -633,7 +633,7 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 **Today's Progress**: Javascript Tutorial: Scroll Project
 (https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
 
-**Thoughts** While I was building my personal portfolio website of the product landing page or any project that I had included a scrolling effect, it didn't always work smoothly. Today, I have learnt that I can add a scroll style to the html in css, and also that adding the scrolling functionality of the page works better if you do it in JavaScript. I'll redo some of the my major projects to include the aspects learnt while building this project.
+**Thoughts** While I was building my personal portfolio website of the product landing page or any project that I had included a scrolling effect, it didn't always work smoothly. Today, I have learnt that I can add a scroll style to the html in css, and also that adding the scrolling functionality of the page works better if you do it in JavaScript. I'll redo some of the my major projects to include the stuff that I have learnt while building this project.
 
-**Link(s) to work**: [Slider] :(https://objective-bardeen-6b4ecf.netlify.app/)
+**Link(s) to work**: [Scroll Project] :(https://vigilant-bartik-5ba2e6.netlify.app/)
 
