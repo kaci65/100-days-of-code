@@ -637,3 +637,14 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Link(s) to work**: [Scroll Project] :(https://vigilant-bartik-5ba2e6.netlify.app/)
 
+
+
+### Day 70: July 30, 2020
+
+**Today's Progress**: Javascript Tutorial: Countdown Timer
+(https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
+
+**Thoughts** I built a countdown timer... and it's realtime!!! I love it, I enjoyed this project. I think it's projects like this that make me really excited about learning javascript.
+
+**Link(s) to work**: [Countdown Timer] :(https://stupefied-ardinghelli-9964fb.netlify.app/
+
