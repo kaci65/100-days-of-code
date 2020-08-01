@@ -646,5 +646,24 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Thoughts** I built a countdown timer... and it's realtime!!! I love it, I enjoyed this project. I think it's projects like this that make me really excited about learning javascript.
 
-**Link(s) to work**: [Countdown Timer] :(https://stupefied-ardinghelli-9964fb.netlify.app/
+**Link(s) to work**: [Countdown Timer] :(https://stupefied-ardinghelli-9964fb.netlify.app/)
+
+
+### Day 71: July 31, 2020
+
+**Today's Progress**: Javascript Tutorial: Memory Game
+(https://www.youtube.com/watch?v=lhNdUVh3qCc)
+
+**Thoughts** I built the memory game. It was kinda fun playing something that I had created. The code is heavily reliant on JavaScript, I didn't do much CSS, but I will add some to the code to make it look more better.
+
+**Link(s) to work**: [Countdown Timer] :(https://hungry-mestorf-8e225b.netlify.app/)
+
+
+### Day 72: August 1, 2020
+
+**Today's Progress**: HTML & CSS: Responsive Web Design
+
+**Thoughts** I am reading the book "Beginning Responsive Web Design with HTML5 and CSS3" by Jonathan Fielding, partly because making my websites and webpages responsive has been an uphill battle for me. I'll apply the nuggets I learn to the websites I have already created to make them more responsive.
+
+**Link(s) to work**: [Book] :(Beginning Responsive Web Design with HTML5 and CSS3 by Jonathan Fielding: https://www.amazon.com/Beginning-Responsive-Design-HTML5-CSS3/dp/1430266945)
 
