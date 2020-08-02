@@ -656,7 +656,7 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Thoughts** I built the memory game. It was kinda fun playing something that I had created. The code is heavily reliant on JavaScript, I didn't do much CSS, but I will add some to the code to make it look more better.
 
-**Link(s) to work**: [Countdown Timer] :(https://hungry-mestorf-8e225b.netlify.app/)
+**Link(s) to work**: [Memory Game] :(https://hungry-mestorf-8e225b.netlify.app/)
 
 
 ### Day 72: August 1, 2020
@@ -666,4 +666,16 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 **Thoughts** I am reading the book "Beginning Responsive Web Design with HTML5 and CSS3" by Jonathan Fielding, partly because making my websites and webpages responsive has been an uphill battle for me. I'll apply the nuggets I learn to the websites I have already created to make them more responsive.
 
 **Link(s) to work**: [Book] :(Beginning Responsive Web Design with HTML5 and CSS3 by Jonathan Fielding: https://www.amazon.com/Beginning-Responsive-Design-HTML5-CSS3/dp/1430266945)
+
+
+### Day 73: August 2, 2020
+
+**Today's Progress**: Javascript Tutorial: Whack a Frog!
+(https://www.youtube.com/watch?v=lhNdUVh3qCc)
+
+**Thoughts** For some reason my js code is not working. I've gone over it like three times but I still can't see what the problem is. I'll go over it again tomorrow, hopefully I'll catch the bug.
+
+**Link(s) to work**: [Whack a Frog] :(https://vigorous-chandrasekhar-79c0cc.netlify.app/)
+
+
 
