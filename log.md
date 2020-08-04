@@ -695,7 +695,7 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Thoughts** When I kept getting a type error of null on line 186 and 185, I decided to go over the code again today. I can't seem to see why I would get getting the null type error. However, after publishing the project on Netlify, the error does not appear. This was quite wierd and frustrating!
 
-**Link(s) to work**: [To Do List] :(https://inspiring-bardeen-261fc0.netlify.app/); [Tolkien Tribute] :()
+**Link(s) to work**: [To Do List] :(https://inspiring-bardeen-261fc0.netlify.app/); [Tolkien Tribute] :(https://github.com/kaci65/projects-100-days-of-code/commit/ee2101440682203b7e96d07e3d031d4f47f5aa00#diff-95b28d5703643be1c8ff89370b488ca8)
 
 
 
