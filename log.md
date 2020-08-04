@@ -695,6 +695,8 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 
 **Thoughts** When I kept getting a type error of null on line 186 and 185, I decided to go over the code again today. I can't seem to see why I would get getting the null type error. However, after publishing the project on Netlify, the error does not appear. This was quite wierd and frustrating!
 
+The book on responsive web design that I have been reading the past couple of days has made it easier for me to understand media queries which had been giving me a hard time for a while ("Beginning Responsive Web Design with HTML5 and CSS3" by Jonathan Fielding). I have redone the tolkien tribute page to be responsive.
+
 **Link(s) to work**: [To Do List] :(https://inspiring-bardeen-261fc0.netlify.app/); [Tolkien Tribute] :(https://github.com/kaci65/projects-100-days-of-code/commit/ee2101440682203b7e96d07e3d031d4f47f5aa00#diff-95b28d5703643be1c8ff89370b488ca8)
 
 
