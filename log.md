@@ -678,4 +678,26 @@ I also went over the fizzbuzz code from yesterday, and the issue was that the wo
 **Link(s) to work**: [Whack a Frog] :(https://vigorous-chandrasekhar-79c0cc.netlify.app/)
 
 
+### Day 74: August 3, 2020
+
+**Today's Progress**: Javascript Tutorial: To Do List
+(https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
+
+**Thoughts** I keep getting a type error of null on line 186 and 185. I have gone over my code, compared it with the source code but I can't seem to spot the problem. I'll go through it tomorrow just to go over it gain with fresh eyes. But after publishing it on Netlify, the error does not appear.
+
+**Link(s) to work**: [To Do List] :(https://inspiring-bardeen-261fc0.netlify.app/)
+
+
+### Day 75: August 4, 2020
+
+**Today's Progress**: Javascript Tutorial: To Do List
+(https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/); Responsive Design Redo (Tolkien Tribute)
+
+**Thoughts** When I kept getting a type error of null on line 186 and 185, I decided to go over the code again today. I can't seem to see why I would get getting the null type error. However, after publishing the project on Netlify, the error does not appear. This was quite wierd and frustrating!
+
+**Link(s) to work**: [To Do List] :(https://inspiring-bardeen-261fc0.netlify.app/); [Tolkien Tribute] :()
+
+
+
+
 
