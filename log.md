@@ -700,6 +700,15 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: [To Do List] :(https://inspiring-bardeen-261fc0.netlify.app/); [Tolkien Tribute] :(https://github.com/kaci65/projects-100-days-of-code/commit/ee2101440682203b7e96d07e3d031d4f47f5aa00#diff-95b28d5703643be1c8ff89370b488ca8)
 
 
+### Day 76: August 5, 2020
+
+**Today's Progress**: Book: "Beginning Responsive Web Design with HTML5 and CSS3" by Jonathan Fielding.
+
+**Thoughts** I have finished reading this book. I have redone some of my former websites to showcase what I have learnt from this book. Media queries and the subject of responsiveness now doesn't seem such a hassle, the book was quite helpful. It's a book that I plan to keep on referring to every now and then, so as to get better and better in building responsive web pages and websites.
+
+**Link(s) to work**: [Product Landing Page] :(https://github.com/kaci65/projects-100-days-of-code/commits/master/product-landing-page-fcc); [Tolkien Tribute] :(https://github.com/kaci65/projects-100-days-of-code/commits/master/tolkien-tribute-fcc); [Personal Portfolio Page] :(https://github.com/kaci65/projects-100-days-of-code/commits/master/personal-portfolio-page).
+
+
 
 
 
