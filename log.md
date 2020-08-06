@@ -709,6 +709,15 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: [Product Landing Page] :(https://github.com/kaci65/projects-100-days-of-code/commits/master/product-landing-page-fcc); [Tolkien Tribute] :(https://github.com/kaci65/projects-100-days-of-code/commits/master/tolkien-tribute-fcc); [Personal Portfolio Page] :(https://github.com/kaci65/projects-100-days-of-code/commits/master/personal-portfolio-page).
 
 
+### Day 77: August 6, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com)
+
+**Thoughts** I have stopped doing javascript tutorials. They really helped in making me get comfortable with javascript syntax, but now, it's time to take a dive without them. The coding challenges on Edabit are fine, I've tackled functions that deal with addition, subtraction, multiplication, arrays. 
+
+**Link(s) to work**: [Edabit Profile] :(https://edabit.com/user/KsHsCefJF7kopswws)
+
+
 
 
 
