@@ -711,9 +711,18 @@ The book on responsive web design that I have been reading the past couple of da
 
 ### Day 77: August 6, 2020
 
-**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com)
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 1 : 55 XP).
 
 **Thoughts** I have stopped doing javascript tutorials. They really helped in making me get comfortable with javascript syntax, but now, it's time to take a dive without them. The coding challenges on Edabit are fine, I've tackled functions that deal with addition, subtraction, multiplication, arrays. 
+
+**Link(s) to work**: [Edabit Profile] :(https://edabit.com/user/KsHsCefJF7kopswws)
+
+
+### Day 78: August 7, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 3 : 115 XP). 
+
+**Thoughts** Still continuing with JavaScript coding challenges on Edabit. Today I created functions that dealt with conditions, validation, math and recursion. The recursion one though is still kinda confusing to me, I'll read on it further.
 
 **Link(s) to work**: [Edabit Profile] :(https://edabit.com/user/KsHsCefJF7kopswws)
 
