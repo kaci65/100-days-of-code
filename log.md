@@ -727,6 +727,12 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: [Edabit Profile] :(https://edabit.com/user/KsHsCefJF7kopswws)
 
 
+### Day 79: August 8, 2020
 
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 4 : 200 XP). 
+
+**Thoughts** Still on Edabit coding challenges. I tackled arrow functions, ternary operators, arrays, and destructuring arrays.
+
+**Link(s) to work**: [Edabit Profile] :(https://edabit.com/user/KsHsCefJF7kopswws)
 
 
