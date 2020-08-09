@@ -737,7 +737,7 @@ The book on responsive web design that I have been reading the past couple of da
 
 
 
-### Day 79: August 8, 2020
+### Day 80: August 9, 2020
 
 **Today's Progress**: Break
 
