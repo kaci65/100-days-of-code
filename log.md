@@ -736,3 +736,13 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: [Edabit Profile] :(https://edabit.com/user/KsHsCefJF7kopswws)
 
 
+
+### Day 79: August 8, 2020
+
+**Today's Progress**: Break
+
+**Thoughts** 
+
+**Link(s) to work**:
+
+
