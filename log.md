@@ -746,3 +746,12 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**:
 
 
+### Day 81: August 10, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 4 : 260 XP). 
+
+**Thoughts** Today, I've created functions that loop through arrays, reverse arrays, concatenate arrays, find characters in arrays, convert objects into arrays.
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
