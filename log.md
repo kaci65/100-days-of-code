@@ -755,3 +755,12 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 82: August 11, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 4 : 285 XP). 
+
+**Thoughts** Today, I'm still struggling with recursion, the info I have read on it and the videos I've watched, have only seemed to confuse me further. I'll try finding more material to understand this further, tomorrow. Comparing strings, and converting fraction strings to decimals also posed quite a challenge for me.
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
