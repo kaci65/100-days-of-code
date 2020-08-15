@@ -764,3 +764,39 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 83: August 12, 2020
+
+**Today's Progress**: Laptop issues
+
+**Thoughts** My laptop shut down all of a sudden. It wouldn't restart. I kept getting an fsck error whenever I turned on my laptop. Googling about this issue, I found that the best way to solve this issue is to run my OS from a external device. I don't know how to do this yet so I'll try finding someone who can do it for me.
+
+**Link(s) to work**: 
+
+
+### Day 84: August 13, 2020
+
+**Today's Progress**: Laptop issues
+
+**Thoughts** I asked someone to look into it and fix it but they couldn't. Guess I'll have to do it myself lol.
+
+**Link(s) to work**: 
+
+
+### Day 85: August 14, 2020
+
+**Today's Progress**: Laptop issues 
+
+**Thoughts** I decided to try and fix it myself. I checked out a couple of forums and found this one: https://askubuntu.com/questions/697190/fsck-error-on-boot-dev-sda6-unexpected-inconsistency-run-fsck-manually. I ran fsck /dev/sda2 and then fsck -fy /dev/sda2. Then I updated, clean and then upgraded the package manage system and then typed exit to force reboot. This worked and my laptop is back!!!
+
+**Link(s) to work**:
+
+
+### Day 86: August 15, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 4 : 325 XP). 
+
+**Thoughts** High order functions??? My eyes just went cross-eyed! Having a function inside a function still eludes me. There was one challenge where I had to insert another array in between an array: I learnt array keys in this.
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
