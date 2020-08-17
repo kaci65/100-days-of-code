@@ -809,3 +809,12 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 88: August 17, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 4 : 410 XP). 
+
+**Thoughts** A variety of what I've been doing so far: recursion, arrays, loops, conditionals...
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
