@@ -818,3 +818,12 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 89: August 18, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 5 : 460 XP). 
+
+**Thoughts** I worked on finding the factorial of a number through recursion, negated characters (regex), repeating letters in a string, counting the vowels in a string... However, I am having trouble with adding values of an array. 
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
