@@ -827,3 +827,12 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 90: August 19, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 5 : 540 XP). 
+
+**Thoughts** I worked on closures, sum of array items, regular expression for an empty string, object destructuring...
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
