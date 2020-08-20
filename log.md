@@ -836,3 +836,12 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 91: August 20, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 6 : 625 XP). 
+
+**Thoughts** I worked on recursion (travelling salesman problem), converting objects to arrays, converting keys, values in an object to an array, triangular number sequence(recursion), finding an array item using template literals...
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
