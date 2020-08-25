@@ -862,7 +862,7 @@ The book on responsive web design that I have been reading the past couple of da
 
 PS. I copy pasted my code into sublime because I'm having an issue login into the server, so I hosted it on Netlify for this GitHub log. 
 
-**Link(s) to work**: [Original url] : (http://3.215.190.196/), [Netlify] : (https://compassionate-bhabha-aba9cd.netlify.app/)
+**Link(s) to work**: [Original url] : (http://3.215.190.196/), [Netlify] : (https://frosty-carson-ddf369.netlify.app/)
 
 
 ### Day 94: August 23, 2020
@@ -871,7 +871,9 @@ PS. I copy pasted my code into sublime because I'm having an issue login into th
 
 **Thoughts** So a continuation of yesterday. I spent the better part of today cleaning my HTML & CSS (it looked messy and a few closing tags were missing or were in the wrong place), adding a few lines of JavaScript (when you click the photo in the tweets page, it get big and clicking it again makes it small. Although I have not added time (ms) to get the exact effect), and learning how to use Disqus and also add Disqus comments to your website. Before this, I had never heard of Disqus and how to exactly add comments to your website, I just figured that you add them 'some way'! LOL. 
 
-**Link(s) to work**: [Original url] : (http://3.215.190.196/), [Netlify] : (https://compassionate-bhabha-aba9cd.netlify.app/)
+PS. Under the tweet page, I don't know why the tweet is affecting the width of the red banner/topic. I tried the suggestions in (https://stackoverflow.com/questions/14668620/make-div-background-color-span-entire-width & https://stackoverflow.com/questions/2309819/how-to-stretch-a-header-across-a-web-page-background-with-css) but none worked! I asked around too but no solution was forthcoming.
+
+**Link(s) to work**: [Original url] : (http://3.215.190.196/), [Netlify] : (https://frosty-carson-ddf369.netlify.app/)
 
 
 ### Day 95: August 24, 2020
