@@ -856,20 +856,22 @@ The book on responsive web design that I have been reading the past couple of da
 
 ### Day 93: August 22, 2020
 
-**Today's Progress**: Website creation through emacs
+**Today's Progress**: Website creation through emacs (HTML & CSS)
 
-**Thoughts** This was a challenge where I had to build a website using emacs in the command line. This was hectic and time consuming. I got to appreciate text editors like sublime text, atom etc. The user interface of emacs through the command line is not so easy to use at forst, it takes a while to get used to.
+**Thoughts** This was a challenge where I had to build a website using emacs in the command line. This was hectic and time consuming. I got to appreciate text editors like sublime text, atom etc. The user interface of emacs through the command line is not so easy to use at forst, it takes a while to get used to. The files were also not stored locally but in a remote server, so I was using ssh. This was quite interesting. I learnt quite a few things today! 
 
-**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+PS. I copy pasted my code into sublime because I'm having an issue login into the server, so I hosted it on Netlify for this GitHub log. 
+
+**Link(s) to work**: [Original url] : (http://3.215.190.196/), [Netlify] : (https://compassionate-bhabha-aba9cd.netlify.app/)
 
 
-### Day 92: August 23, 2020
+### Day 94: August 23, 2020
 
-**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 6 : 685 XP). 
+**Today's Progress**:  Website creation through emacs
 
-**Thoughts** My cat got sick today, I have been preoccupied since morning, so I haven't been able to do a lot of coding. I worked on debugging, concatenating arrays, validation.
+**Thoughts** So a continuation of yesterday. I spent the better part of today cleaning my HTML & CSS (it looked messy and a few closing tags were missing or were in the wrong place), adding a few lines of JavaScript (when you click the photo in the tweets page, it get big and clicking it again makes it small. Although I have not added time (ms) to get the exact effect), and learning how to use Disqus and also add Disqus comments to your website. Before this, I had never heard of Disqus and how to exactly add comments to your website, I just figured that you add them 'some way'! LOL. 
 
-**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+**Link(s) to work**: [Original url] : (http://3.215.190.196/), [Netlify] : (https://compassionate-bhabha-aba9cd.netlify.app/)
 
 
 ### Day 95: August 24, 2020
