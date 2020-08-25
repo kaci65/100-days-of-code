@@ -854,3 +854,39 @@ The book on responsive web design that I have been reading the past couple of da
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 93: August 22, 2020
+
+**Today's Progress**: Website creation through emacs
+
+**Thoughts** This was a challenge where I had to build a website using emacs in the command line. This was hectic and time consuming. I got to appreciate text editors like sublime text, atom etc. The user interface of emacs through the command line is not so easy to use at forst, it takes a while to get used to.
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
+### Day 92: August 23, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 6 : 685 XP). 
+
+**Thoughts** My cat got sick today, I have been preoccupied since morning, so I haven't been able to do a lot of coding. I worked on debugging, concatenating arrays, validation.
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
+### Day 95: August 24, 2020
+
+**Today's Progress**: System Failure!!!
+
+**Thoughts** I was having some problems, since yesterday and I decided to upgrade my OS to the latest ubuntu version (20.04). My laptop froze midway and stayed that way for several hours. I decided to shut down my laptop (don't ever do this!!!) and when I restarted it,  I was welcomed with a white screen telling me of a system failure a few seconds later. I had to use GRUB to fix it (using the command line), then it froze again at 92%, this time upto today morning. I turned it off again and restarted it, it worked but I had to run some commands to finish the upgrade (I got the commands from : https://askubuntu.com/questions/748289/how-to-repair-ubuntu-installation-after-interrupted-dist-upgrade-without-losing#748350)
+
+**Link(s) to work**: 
+
+
+### Day 96: August 25, 2020
+
+**Today's Progress**: JavaScript Coding Challenges : Edabit (https://edabit.com) (Level 6 : 745 XP). 
+
+**Thoughts** Regex (finding tabs with one literal whitespace), arrays(even index contains an even number and every odd index contains an odd number), debugging (validation). It was quite interesting to solve the array challenge, because I had to skip one number for it to be even or odd, keeping in mind that hte index starts at 0. I think I am getting to like debugging, it's quite interesting.
+
+**Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
+
+
