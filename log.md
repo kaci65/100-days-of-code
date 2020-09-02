@@ -894,3 +894,53 @@ PS. Under the tweet page, I don't know why the tweet is affecting the width of t
 **Link(s) to work**: https://edabit.com/user/KsHsCefJF7kopswws
 
 
+### Day 97: August 26, 2020
+
+**Today's Progress**: Laptop troubles
+
+**Thoughts** 
+
+**Link(s) to work**: 
+
+
+### Day 98: August 27, 2020
+
+**Today's Progress**: Laptop troubles 
+
+**Thoughts** 
+
+**Link(s) to work**: 
+
+
+### Day 99: August 28, 2020
+
+**Today's Progress**: Laptop troubles
+
+**Thoughts** 
+
+**Link(s) to work**: 
+
+
+### Day 100: August 29, 2020
+
+**Today's Progress**: Laptop troubles 
+
+**Thoughts** 
+
+**Link(s) to work**:
+
+
+### Post Challenge Update
+### September 2, 2020
+
+**Progress**: Day 97 - 100 : why I did not code.
+
+**Thoughts** I recorded on day 95 (August 24th) that I was having a system failure after upgrading to Ubuntu 20.04. However, my laptop's keyboard and at times the touchpad stopped working. Using an external keyboard worked for around half an hour and then it stopped. I reinstalled 19.10 but the issue was not fixed, I then troubleshooted using a couple of commands but none worked. 
+
+Instead, I broke something (code) yesterday, which then completely crashed my laptop. I had to reinstall 20.04 again. The touchpad and part of the keyboard works now, only the numpad is giving me some trouble. I am now using an external keyboard, which now works, until I can buy a new laptop.
+
+**Progress**: I got a JOB!!! (on to positive stuff!)
+
+**Thoughts** The #100DaysOfCode challenge was one of the best decisions I made this year. Another one was deciding to complete the curriculum on FreeCodecamp that I had started late 2018. I was doubtful when I read an article by Alex Kallaway on FreeCodeCamp that some people got jobs before even the 100 days were up! Doing the challenge helped keep me on track, set goals and commit to them, and mostly, keep myself accountable. I'm proud of how far I have come in just three months! Looking forward to what the future has in store for me!
+
+
